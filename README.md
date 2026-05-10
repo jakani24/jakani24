@@ -1,5 +1,8 @@
 # Hi there, I'm Jakani 👋
 
+## Deprectaion note
+I recenty switched to my own git. There will be no / not much work any more here 
+
 ## About Me
 
 - 🔭 I’m currently working on [Jakch login](https://github.com/jakani24/jakach-login)
