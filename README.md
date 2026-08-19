@@ -1,4 +1,4 @@
-# Hi there, I'm Jakani 👋
+# Hi there, I'm Jakani
 
 ## Deprectaion note
 I recenty switched to my own git. There will be no / not much work any more here 
